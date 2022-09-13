@@ -18,7 +18,7 @@ class _InforState extends State<Infor> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             CircleAvatar(
-              radius: 40,
+              radius: 50,
               backgroundImage: NetworkImage(
                   "https://th.bing.com/th/id/OIP.bDrPv6T2NPOt1dxAWTJLPQHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.25&pid=1.7"),
             ),
